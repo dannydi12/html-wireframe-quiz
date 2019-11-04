@@ -1,19 +1,39 @@
 ## Questions
 
-1) Who is Elon (I will give multiple options)?
-    All of the above
+1) Who is Elon?
+    a) An entrepeneur
+    b) A billionaire
+    c) An all-around awesome guy
+    d) All of the above
+    Correct Answer: All of the above
 
 2) Where was Elon born?
-    South Africa
+    a) The United States of America
+    b) Canada
+    c) South Africa
+    d) Australia
+    Correct Answer: South Africa
 
 3) What is Elon Musk's middle name?
-    Reeve
+    a) Reeve
+    b) Adam
+    c) Henry
+    d) Maye
+    Correct Answer: Reeve
 
 4) What was Elon Musk's first multi-million dollar company?
-    Zip2
+    a) Paypal
+    b) Zip2
+    c) Tesla
+    d) SpaceX
+    Correct Answer: Zip2
 
 5) When asked about Jeff Bezos, Elon Musk famously replied:
-    “Jeff who?”
+    a) I hate Amazon.
+    b) We both have space companies!
+    c) Jeff who?
+    d) I think his companies are overvalued.
+    Correct Answer: Jeff who?
 
 ## Important Links
 
