@@ -1,3 +1,9 @@
+## Important Links
+
+Github Pages environment: https://dannydi12.github.io/html-wireframe-quiz/
+
+Initial Wireframe: https://dannydi12.github.io/wireframe-quiz/#/page/f392982e504c4c9ea6fdeeb9a0b4fcd4/sidebar/off
+
 ## Questions
 
 1) Who is Elon?
@@ -39,9 +45,3 @@
     4) I think his companies are overvalued.
     
    **Correct Answer: Jeff who?**
-
-## Important Links
-
-Github Pages environment: https://dannydi12.github.io/html-wireframe-quiz/
-
-Initial Wireframe: https://dannydi12.github.io/wireframe-quiz/#/page/f392982e504c4c9ea6fdeeb9a0b4fcd4/sidebar/off
